@@ -1,0 +1,1 @@
+This project is based on the Django tutorial which can be found [here](https://docs.djangoproject.com/en/5.0/intro/tutorial01/).
